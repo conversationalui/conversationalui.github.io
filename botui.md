@@ -7,6 +7,7 @@ permalink: /botui/
 <div class="botui-app-container" id="hello-world">
     <bot-ui></bot-ui>
   </div>
+  <div>hello world</div>
   <script src="https://cdn.jsdelivr.net/vue/2.0.5/vue.min.js"></script>
   <script src="{{ "/assets/js/botui.js" | relative_url }}"></script>
   <script>
