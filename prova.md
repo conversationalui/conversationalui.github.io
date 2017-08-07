@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Prova
+permalink: /prova/
 ---
 
 Prova di una nuova paginetta [jekyllrb.com](https://jekyllrb.com/)
