@@ -24,7 +24,8 @@ github_username:  antoniotrento
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: 
 plugins:
   - jekyll-feed
 
