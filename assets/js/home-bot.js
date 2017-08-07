@@ -20,7 +20,7 @@ homeBot.message.add({
     }]
   });
 }).then(function (res) {
-  ga_record('btn_click', res.value);
+  //ga_record('btn_click', res.value); google analitics lock execution
   if(res.value == 'sure') {
     tutorial();
   }
@@ -81,7 +81,7 @@ var tutorial = function () {
 };
 
 var end = function () {
-  ga_record('message', 'end');
+  //ga_record('message', 'end'); google analitics lock execution
   homeBot.message.add({
     delay: 1000,
     content: '!(book) [Read the docs](https:///docs.botui.org), see [examples](https:///examples.botui.org) or explore the code on !(github) [GitHub](https://github.com/moinism/botui)'
