@@ -46,7 +46,7 @@ homeBot.message.add({
 
 var story = function () {
   homeBot.message.add({
-    delay: 1000,
+    delay: 2000,
     content: "Awesome! Let me explain how a conversational user experience can help your projects:"
   }).then(function () {
     return homeBot.message.add({
@@ -55,12 +55,12 @@ var story = function () {
     });
   }).then(function () {
     return homeBot.message.add({
-      delay: 1000,
+      delay: 3000,
       content: '2) You can use it to collect lead and user information more fluidly, increasing engagement opportunities.'
     });
   }).then(function () {
     return homeBot.message.add({
-      delay: 1000,
+      delay: 3000,
       content: '3) Bring your conversation to a more confidential level.'
     });
   }).then(function () {
