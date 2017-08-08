@@ -144,7 +144,7 @@ var land = function () {
   }).then(function () {
     return homeBot.message.bot({
       delay: 2000,
-      content: 'If you want to give me a hand to let you know this project in the world feel free to share !(twitter) [this tweet](https://github.com/conversationalui/conversationalui.github.io) on my twitter account, I would be very grateful to you!'
+      content: 'If you want to give me a hand to let you know this project in the world feel free to share !(twitter) [this tweet](https://twitter.com/lantoniotrento/status/894954672921997312) on my twitter account, I would be very grateful to you!'
     });
   }).then(function () {
     return homeBot.message.bot({
