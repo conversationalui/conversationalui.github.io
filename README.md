@@ -1,4 +1,4 @@
-# <img src="/assets/img/conversional_ui_logo.png" style="height:40px"> Conversational UI
+# <img src="/assets/img/conversional_ui_logo.png" style="height: 60px"> Conversational UI
 
 [![Follow me on Twitter https://twitter.com/lantoniotrento](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/lantoniotrento) [![npm](https://img.shields.io/npm/v/botui.svg?style=plastic)](https://www.npmjs.com/package/botui) [![npm](https://img.shields.io/npm/dm/botui.svg?style=plastic)](https://www.npmjs.com/package/botui) [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)](https://github.com/conversationalui/conversationalui.github.io/blob/master/LICENSE)
 
