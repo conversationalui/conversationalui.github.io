@@ -16,7 +16,7 @@
 title: Conversational UI
 email: lantoniotrento@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a little Jekyll theme project to integrate <a href ='https://github.com/botui/botui' rel = 'nofollow'>https://github.com/botui/botui</a> 🤖 A JavaScript framework to create conversational UIs.
+  This is a little Jekyll theme project to integrate https://github.com/botui/botui 🤖 A JavaScript framework to create conversational UIs.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://conversationalui.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lantoniotrento
