@@ -1,7 +1,5 @@
 ---
 layout: botui
-title: Botui
-permalink: /botui/
 ---
 
 
