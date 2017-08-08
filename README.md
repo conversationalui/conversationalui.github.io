@@ -1,6 +1,6 @@
 # conversational UI
 
-[![Follow me on Twitter https://twitter.com/lantoniotrento](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/lantoniotrento) [![npm](https://img.shields.io/npm/v/botui.svg?style=flat-square)](https://www.npmjs.com/package/botui) [![npm](https://img.shields.io/npm/dm/botui.svg?style=flat-square)](https://www.npmjs.com/package/botui)
+[![Follow me on Twitter https://twitter.com/lantoniotrento](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/lantoniotrento) [![npm](https://img.shields.io/npm/v/botui.svg?style=flat-square)](https://www.npmjs.com/package/botui) [![npm](https://img.shields.io/npm/dm/botui.svg?style=flat-square)](https://www.npmjs.com/package/botui)[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/conversationalui/conversationalui.github.io/blob/master/LICENSE)
 
 Thanks for coming!
 
