@@ -20,11 +20,16 @@ categories: jekyll bot chatbot conversational
 
 ![Conversional UI theme](/assets/img/conversionalui.gif)
 
+### HTML section
+
 ```html
 <div class="botui-app-container" id="botui-app">
   <bot-ui></bot-ui>
 </div>
 ```
+
+### JavaScript
+
 
 ```javascript
 var botui = new BotUI('botui-app'); // give it the id of container
@@ -58,6 +63,14 @@ botui.message.bot({ // show first message
   });
 });
 ```
+
+## How to use
+
+1. Learn about BotUI framework
+2. Create your bot script
+3. Put it in the /assets/bots folder
+4. Specify in jekyll page/posts header section you bot file path
+5. Add the HTML section into your page/post
 
 
 ### License
