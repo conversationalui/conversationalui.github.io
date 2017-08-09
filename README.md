@@ -12,4 +12,4 @@ Conversional UI is a **jekyll theme** based on minima theme and adapted to be us
 
 >I'm looking for JavaScript enabled collaborators to implement integrations like that with mailchimp to get new leads.
 
-Please visit the [project section](https://github.com/botui/botui/projects/) and if you want, you can send me a pull request to improve the theme
+Please visit the [project section](https://github.com/conversationalui/conversationalui.github.io/projects) and if you want, you can send me a pull request to improve the theme
