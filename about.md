@@ -6,9 +6,9 @@ permalink: /about/
 
 ![Hello there](/assets/img/hello-about.gif)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
 This theme for jekyll is based on the Minima template and adapted to contain the framework [BotUI](https://github.com/moinism/botui) used to create a UI conversational in your promotion landing pages.
+
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
