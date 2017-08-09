@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use Conversational ui theme"
 date:   2017-08-09 09:33:45 +0200
-categories: jekyll
+categories: jekyll bot chatbot conversational
 ---
 
 ![Hello there](/assets/img/how-to-use-bender.gif)
@@ -11,7 +11,7 @@ categories: jekyll
 
 [![Join the chat at https://gitter.im/BotUIChat/botui](https://badges.gitter.im/BotUIChat/botui.svg)](https://gitter.im/BotUIChat/botui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![npm](https://img.shields.io/npm/v/botui.svg?style=flat-square)](https://www.npmjs.com/package/botui) [![npm](https://img.shields.io/npm/dm/botui.svg?style=flat-square)](https://www.npmjs.com/package/botui)
 
-> A JavaScript framework to create conversational UIs.
+> A Jekyll theme to create conversational UIs.
 
 
 [Main Site](https://botui.org) - [Read Docs](https://docs.botui.org) - [Examples](https://github.com/moinism/botui-examples)
