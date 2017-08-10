@@ -68,7 +68,7 @@ botui.message.bot({ // show first message
 
 ### 1. Learn about BotUI framework
 
-Take a tour of the official ![BotUI](https://botui.org/) framework website and get familiar with the functionality and implementation possibilities by studying the ![documentation](https://docs.botui.org/).
+Take a tour of the official [BotUI](https://botui.org/) framework website and get familiar with the functionality and implementation possibilities by studying the [documentation](https://docs.botui.org/).
 
 ### 2. Create your bot script
 
