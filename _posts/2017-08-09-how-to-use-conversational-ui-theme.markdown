@@ -115,6 +115,10 @@ Now you can add the html part of your bot to the page so:
 
 Where the id = "home-demo" field is the same identifier as the bot inserted in the javascript file.
 
+### 6. Enjoy your bot
+
+![Locomotive bender](/assets/img/bender-locomotive.gif)
+
 ### License
 
 [MIT License](https://github.com/conversationalui/conversationalui.github.io/blob/master/LICENSE) - Copyrights (c) 2017 - Antonio Trento
