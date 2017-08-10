@@ -78,7 +78,7 @@ After getting familiar with BotUI you will be able to create your own bot! Commi
 
 ### 3. Put it in the /assets/bots folder
 
-Assuming you know jekyll's work and you've already created your build, put your bot in the /assets/bots/what_you_like folder; Conversational UI theme defaults to that folder from your bot ideas.
+Assuming you know [jekyll's](https://jekyllrb.com/) work and you've already created your build, put your bot in the /assets/bots/what_you_like folder; Conversational UI theme defaults to that folder from your bot ideas.
 
 ### 4. Specify in jekyll page/posts header section you bot file path
 
