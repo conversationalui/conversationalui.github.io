@@ -66,7 +66,9 @@ botui.message.bot({ // show first message
 
 ## How to use
 
-### 1. Learn about BotUI framework
+Quick guide to start your bot.
+
+### 1. Learn about BotUI framework
 
 Take a tour of the official [BotUI](https://botui.org/) framework website and get familiar with the functionality and implementation possibilities by studying the [documentation](https://docs.botui.org/).
 
