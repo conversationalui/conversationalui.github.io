@@ -66,12 +66,52 @@ botui.message.bot({ // show first message
 
 ## How to use
 
-1. Learn about BotUI framework
-2. Create your bot script
-3. Put it in the /assets/bots folder
-4. Specify in jekyll page/posts header section you bot file path
-5. Add the HTML section into your page/post
+### 1. Learn about BotUI framework
 
+Take a tour of the official ![BotUI](https://botui.org/) framework website and get familiar with the functionality and implementation possibilities by studying the ![documentation](https://docs.botui.org/).
+
+### 2. Create your bot script
+
+After getting familiar with BotUI you will be able to create your own bot! Commit yourself and do something that makes your ideal readers feel involved!
+
+### 3. Put it in the /assets/bots folder
+
+Assuming you know jekyll's work and you've already created your build, put your bot in the /assets/bots/what_you_like folder; Conversational UI theme defaults to that folder from your bot ideas.
+
+### 4. Specify in jekyll page/posts header section you bot file path
+
+Add to the initial configuration of your page or post the 'bot' entry by specifying the path and the filename. 
+
+For example:
+
+```ruby
+---
+layout: post
+title:  "How to use Conversational ui theme"
+date:   2017-08-09 09:33:45 +0200
+categories: jekyll bot chatbot conversational
+bot: home/home-bot.js
+--- 
+```
+
+```ruby
+bot: home/home-bot.js
+```
+where the home folder is placed in /assets/bots/home/home-bot.js.
+
+If you use a hierarchy to keep your bots sorted, you will not be tempted to find them in the future if I want to modify them. For example, for each new page or post where I insert a bot, I create a folder with the name of the post page I'm going to create.
+
+### 5. Add the HTML section into your page/post
+
+Now you can add the html part of your bot to the page so:
+
+```html
+<div class="botui-app-container" id="home-demo">
+    <bot-ui></bot-ui>
+</div>
+```
+
+Where the id = "home-demo" field is the same identifier as the bot inserted in the javascript file.
 
 ### License
 
