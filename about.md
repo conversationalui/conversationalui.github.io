@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Hello there](/assets/img/hello-about.gif)
+![Hello there](/assets/img/bender-smoke.gif)
 
 This theme for jekyll is based on the Minima template and adapted to contain the framework [BotUI](https://github.com/moinism/botui) used to create a UI conversational in your promotion landing pages.
 
