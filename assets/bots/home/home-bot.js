@@ -119,7 +119,7 @@ var land = function () {
     return homeBot.message.add({
       delay: 2200,
       type: 'embed',
-      content: 'https://giphy.com/embed/srbiWWa0VW2YM'
+      content: 'https://giphy.com/embed/129TvXmclvuuha'
     });
   }).then(function () {
     return homeBot.message.bot({
